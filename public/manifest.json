@@ -1,0 +1,8 @@
+{
+  "short_name": "Quiz IA",
+  "name": "Quiz IA Audiovisuel",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#ffffff"
+}
